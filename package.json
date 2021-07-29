@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Haloger7/fexfetch/issues"
   },
-  "homepage": "https://github.com/Haloger7/fexfetch#readme"
+  "homepage": "https://github.com/Haloger7/fexfetch#readme",
+  "dependencies": {
+    "humanize-duration": "^3.27.0"
+  }
 }
