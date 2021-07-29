@@ -6,7 +6,7 @@
   - [Requirements](#Requirements)
 
 ## About
-**FexFetch** is a convenient way to find out information about your OS, I do not use neofetch, and other similar packages. FexFetch is entirely written in Javascript and is open source. You can install it on your PC and use it just like neofetch.
+**FexFetch** is a convenient way to find out information about your OS. I do not use neofetch, and other similar packages. FexFetch is entirely written in Javascript and is open source. You can install it on your PC and use it just like neofetch.
 
 ## Install
 **1.** You can download the npm package with the command `npm i -g fexfetch`
