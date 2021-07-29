@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Haloger7/fexfetch#readme",
   "dependencies": {
+    "fexfetch": "^1.0.7",
     "humanize-duration": "^3.27.0"
   }
 }
