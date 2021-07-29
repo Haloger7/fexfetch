@@ -6,6 +6,9 @@
   "bin": {
     "fexfetch": "./bin/index.js"
   },
+  "scripts": {
+    "test": "node ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Haloger7/fexfetch.git"
