@@ -1,0 +1,27 @@
+{
+  "name": "fexfetch",
+  "version": "1.0.0",
+  "description": "Alternative for neofetch. Written in JavaScript.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haloger7/fexfetch.git"
+  },
+  "keywords": [
+    "neofetch",
+    "alternative-neofetch",
+    "fexfetch",
+    "neofetch-alternative",
+    "neo",
+    "fetch"
+  ],
+  "author": "Nazuna ナズナ#6235",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haloger7/fexfetch/issues"
+  },
+  "homepage": "https://github.com/Haloger7/fexfetch#readme"
+}
