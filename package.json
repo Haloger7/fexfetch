@@ -1,6 +1,6 @@
 {
   "name": "fexfetch",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Alternative for neofetch. Written in JavaScript.",
   "main": "./lib/index.js",
   "bin": {

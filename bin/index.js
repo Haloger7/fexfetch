@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-const { fetch } = require("../lib/index");
-fetch();
+const fexfetch = require("../lib/index");
+fexfetch();
